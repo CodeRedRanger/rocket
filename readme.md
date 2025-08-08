@@ -1,2 +1,4 @@
-- Kameti Kumbi- 
-Chris
+## Collaborators
+- Robb Guido
+- Kameti Kumbi
+- Chris
